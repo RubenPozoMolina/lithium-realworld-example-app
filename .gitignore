@@ -36,3 +36,6 @@ build/
 
 # Tem test directory
 test/collections/
+
+#VSCode
+.vscode/

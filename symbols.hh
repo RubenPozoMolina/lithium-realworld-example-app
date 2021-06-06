@@ -35,6 +35,11 @@
     LI_SYMBOL(database)
 #endif
 
+#ifndef LI_SYMBOL_description
+#define LI_SYMBOL_description
+    LI_SYMBOL(description)
+#endif
+
 #ifndef LI_SYMBOL_email
 #define LI_SYMBOL_email
     LI_SYMBOL(email)
